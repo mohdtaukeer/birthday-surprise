@@ -43,7 +43,7 @@ function BirthdayReveal() {
         className="relative mt-12 w-full max-w-[280px] rounded-t-[140px] rounded-b-2xl border border-[#D6B67D]/50 bg-gradient-to-b from-[#D6B67D]/20 to-[#65465F]/20 p-2 shadow-[0_0_60px_rgba(214,182,125,0.15)]"
       >
         <img
-          src="/images/S4.jpeg"
+          src="/images/S12.jpeg"
           alt="Birthday girl Shana"
           className="h-[380px] w-full rounded-t-[135px] rounded-b-xl object-cover object-top"
         />
